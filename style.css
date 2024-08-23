@@ -1,0 +1,39 @@
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(75,9,121,1) 35%, rgba(205,0,255,1) 100%);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: magenta;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#tableForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputID {
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+button {
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.time-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 22px;
+    font-size: 25px;
+    font-weight: 600;
+    color: magenta;
+}
